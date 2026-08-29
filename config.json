@@ -1,12 +1,12 @@
 {
-  "token": "MTUzNTQ3NTYzNzk3MDY2OTU4OA.GiEzdg.UpydiMNB843BIls2NekQYdX1sV0sRu0Fwdl_Yw",
-  "clientId": "1535475637970669588",
+  "token": "",
+  "clientId": "",
   "blacklistedGuilds": [
-    "1526033494898118788",
+    "",
     "",
     ""
   ],
   "logs": {
-    "logChannelId": "1528951232159285508"
+    "logChannelId": ""
   }
 }
